@@ -1,0 +1,6 @@
+# env files
+env
+
+# jupter files
+.ipynb_checkpoints
+__pycache__
